@@ -1,12 +1,17 @@
-# React + Vite
+# JSON Schema Builder React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React project for dynamically creating JSON schema using a form. Users can add various fields and view the generated schema in real time. Easy to use, especially for beginners.
 
-Currently, two official plugins are available:
+## 🔧 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add string, number, boolean fields
+- Preview JSON schema live as you build
+- Tailwind CSS used for styling
+- Built with React + Vite for fast development
+- ESLint support for clean code
 
-## Expanding the ESLint configuration
+## 🚀 How to Run
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/json-schema-builder-react.git
